@@ -9,3 +9,9 @@ td, th {
 svg {
     height: 150px;
 }
+
+.wpc-city-info,
+.wpc-city-info .wpc-google-map {
+    height: 200px;
+    width: 250px;
+}
